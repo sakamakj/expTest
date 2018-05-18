@@ -1,0 +1,3 @@
+info
+kommando för root:
+c Server.interface(Ranking.give_rank,true,game.player,'r')
